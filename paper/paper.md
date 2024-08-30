@@ -75,8 +75,8 @@ Table: Syndromes analyzed in this study.
 | Coffin-Lowry syndrome      | 303600  | 3      | 3 |
 | Cornelia de Lange syndrome | 122470  | 2      | 2 |
 | Kabuki syndrome            | 147920  | 9      | 6 |
-| Mucopolysaccharidosis I    | 607014  | 1      | 0 |
-| Mucopolysaccharidosis II   | 607014  | 2      | 0 |
+| Mucopolysaccharidosis I    | 607014-607016| 1      | 0 |
+| Mucopolysaccharidosis II   | 309900 | 2      | 0 |
 | Noonan syndrome            | 163950  | 9      | 2 |
 | Prader-Willi syndrome      | 176270  | 13     | 0 |
 | Rubinstein-Taybi syndrome  | 180849  | 2      | 2 |
