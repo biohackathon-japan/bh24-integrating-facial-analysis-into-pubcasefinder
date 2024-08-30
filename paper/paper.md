@@ -68,6 +68,7 @@ HPO terms were assined to each case repots by automatically and/or manually. Aut
 ## Benchmarking on J-STAGE dataset
 
 Table: Syndromes analyzed in this study. 
+
 | syndrome                   | omim ID | cases  | HPO term annotation |
 | --------                   | ------  | ----   | ----                |
 | Angelman syndrome          | 105830  | 1      | 0 | 
