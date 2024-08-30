@@ -18,12 +18,14 @@ affiliations:
     index: 1
   - name: Second Affiliation
     index: 2
-date: 8 November 2023
+  - name: Department of Human Genetics, Atomic Bomb Disease Institute, Nagasaki University, Nagasaki, Japan
+    index: 3
+date: 30 November 2024
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
-biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
+event: BH24
+biohackathon_name: "BioHackathon 2024"
+biohackathon_url:   "https://2024.biohackathon.org"
+biohackathon_location: "Fukushima, Japan, 2024"
 group: Project 26
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/biohackrxiv/publication-template
