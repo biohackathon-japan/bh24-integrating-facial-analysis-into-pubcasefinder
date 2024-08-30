@@ -38,7 +38,7 @@ authors_short: Tzung-Chen Hsieh \emph{et al.}
 
 # Introduction
 
-As part of the BioHackathon Europe 2023, we here report...
+As part of the BioHackathon 2024, we here report...
 
 # Formatting
 
