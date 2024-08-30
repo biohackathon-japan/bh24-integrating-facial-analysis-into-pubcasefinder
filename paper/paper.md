@@ -6,11 +6,13 @@ tags:
   - human genetics
   - HPO
 authors:
-  - name: First Author
+  - name: Tzung-Chen Hsieh
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Toyofumi Fujiwara
     affiliation: 2
+  - name: Hiroyuki Mishima
+    orcid: 0000-0001-5050-2509
+    affiliation: 3
 affiliations:
   - name: First Affiliation
     index: 1
