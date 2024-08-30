@@ -68,6 +68,8 @@ The [J-STAGE](https://www.jstage.jst.go.jp/) is a a public platform for scholarl
 ...
 
 ## References
+References will be automatically added when we submit to BioHackrXive. Instruction for authors below is commented out in the source.
+
 
 <!-- 
 # Formatting
