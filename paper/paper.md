@@ -27,7 +27,7 @@ event: BH24
 biohackathon_name: "BioHackathon 2024"
 biohackathon_url:   "https://2024.biohackathon.org/"
 biohackathon_location: "Fukushima, Japan, 2024"
-group: bh24-integrating-facial-analysis-into-pubcasefinder
+group: GestaltMacher-PubCaseFinder group
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-into-pubcasefinder
 
@@ -36,20 +36,25 @@ git_url: https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-
 authors_short: Tzung-Chen Hsieh \emph{et al.}
 ---
 
-
 # Introduction
 
 As part of the BioHackathon 2024, we here report...
 
 GestaltMacher [@citation:Hsieh2022-lw]
+
 GestaltMatcher Databaase [@citation:Lesmann2024-wz]
+
 PubCaseFinder [@citation:Fujiwara2018-ve; @citation:Fujiwara2022-uc]
+
 Limitations of Face2Gene in Japanese population [@citation:Mishima2019-fm]
 
 # Materials and Methods
 
 ## Data Source
-The [J-STAGE](https://www.jstage.jst.go.jp/) is a a platform for scholarly publications in Japan.
+The [J-STAGE](https://www.jstage.jst.go.jp/) is a a public platform for scholarly publications in Japan. The site is developed and managed by the Japan Science and Technology Agency. Each clinical case report in J-STAGE is downloaded. 
+
+
+maintained by .
 
 # Results
 
