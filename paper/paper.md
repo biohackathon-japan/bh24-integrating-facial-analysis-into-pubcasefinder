@@ -71,18 +71,18 @@ Table: Cases analyzed in this study. m: month, y: year, each eye: hidning each e
 
 | syndrome                   | omim ID | cases  | HPO term annotation |
 | --------                   | ------  | ----   | ----                |
-| Angelman syndrome          |         | 1      | 0 | 
-| Cockayne  syndrome         |         | 3      | 3 |
-| Coffin-Lowry syndrome      |         | 3      | 3 |
-| Cornelia de Lange syndrome |         | 2      | 2 |
-| Kabuki syndrome            |         | 9      | 6 |
-| Mucopolysaccharidosis I    |         | 1      | 0 |
-| Mucopolysaccharidosis II   |         | 2      | 0 |
-| Noonan syndrome            |         | 9      | 2 |
-| Prader-Willi syndrome      |         | 13     | 0 |
-| Rubinstein-Taybi syndrome  |         | 2      | 2 |
-| Sotos sysndrome            |         | 2      | 2 |
-| Williams-Beuen syndrome    |         | 8      | 2 |
+| Angelman syndrome          | 105830  | 1      | 0 | 
+| Cockayne  syndrome         | 216400  | 3      | 3 |
+| Coffin-Lowry syndrome      | 303600  | 3      | 3 |
+| Cornelia de Lange syndrome | 122470  | 2      | 2 |
+| Kabuki syndrome            | 147920  | 9      | 6 |
+| Mucopolysaccharidosis I    | 607014  | 1      | 0 |
+| Mucopolysaccharidosis II   | 607014  | 2      | 0 |
+| Noonan syndrome            | 163950  | 9      | 2 |
+| Prader-Willi syndrome      | 176270  | 13     | 0 |
+| Rubinstein-Taybi syndrome  | 180849  | 2      | 2 |
+| Sotos sysndrome            | 117550  | 2      | 2 |
+| Williams-Beuen syndrome    | 194050  | 8      | 2 |
 | total                      |         | 56     | 22 |
 
 # Discussion
