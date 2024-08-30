@@ -66,9 +66,8 @@ HPO terms were assined to each case repots by automatically and/or manually. Aut
 ...
 
 ## Benchmarking on J-STAGE dataset
-Table: Cases analyzed in this study. m: month, y: year, each eye: hidning each eye separately, long bar: hiding both eyes by a bar, none: using original image.
 
-
+Table: Syndromes analyzed in this study. 
 | syndrome                   | omim ID | cases  | HPO term annotation |
 | --------                   | ------  | ----   | ----                |
 | Angelman syndrome          | 105830  | 1      | 0 | 
