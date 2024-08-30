@@ -44,7 +44,7 @@ GestaltMacher [@citation:Hsieh2022-lw]
 
 GestaltMatcher Databaase [@citation:Lesmann2024-wz]
 
-PubCaseFinder [@citation:Fujiwara2018-ve; @citation:Fujiwara2022-uc]
+PubCaseFinder [@citation:Fujiwara2018-ve; @citation:Yamaguichi2021-kg; @citation:Fujiwara2022-uc]
 
 Limitations of Face2Gene in Japanese population [@citation:Mishima2019-fm]
 
