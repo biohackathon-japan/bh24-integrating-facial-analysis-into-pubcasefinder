@@ -1,5 +1,5 @@
 # BH24 Integrating facial analysis into PubCaseFinder
-This is a repository for the GestaltMatcher/PubCaseFinder group of BioHackathon 2024 inFukushima, Japan.
+This is a repository for the GestaltMatcher/PubCaseFinder group of BioHackathon 2024 in Fukushima, Japan.
 
 ----
 
