@@ -5,6 +5,7 @@ tags:
   - rare diseases
   - human genetics
   - HPO
+  - diagnosis assistance
 authors:
   - name: Tzung-Chen Hsieh
     affiliation: 1
@@ -26,7 +27,7 @@ event: BH24
 biohackathon_name: "BioHackathon 2024"
 biohackathon_url:   "https://2024.biohackathon.org/"
 biohackathon_location: "Fukushima, Japan, 2024"
-group: Project 26
+group: bh24-integrating-facial-analysis-into-pubcasefinder
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-into-pubcasefinder
 
