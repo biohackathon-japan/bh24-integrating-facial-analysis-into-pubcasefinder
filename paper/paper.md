@@ -133,18 +133,4 @@ Possible CiTO typing annotation include:
 * agreesWith
 * disagreesWith
 * updates
-* citation: generic citation
-
-
-# Results
-
-
-# Discussion
-
-...
-
-## Acknowledgements
-
-...
-
-## References
+* citati
