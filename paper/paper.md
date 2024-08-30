@@ -66,8 +66,12 @@ HPO terms were assined to each case repots by automatically and/or manually. Aut
 ...
 
 ## Benchmarking on J-STAGE dataset
-
-...
+Table: Downloaded case reports and described syndromes
+| DOI of case reports | syndrome          | case | case with HPO term assignment |
+| ------------------- | ----------------- | ---- | ----------------------------- |
+| aaaaaa              | Angelman syndrome | 1    | 1                             |
+| ------------------- | ----------------- | ---- | ----------------------------- |
+|                     |                   | 56   | 22                            |
 
 # Discussion
 
