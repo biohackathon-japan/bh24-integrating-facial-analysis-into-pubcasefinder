@@ -69,9 +69,7 @@ The [J-STAGE](https://www.jstage.jst.go.jp/) is a a public platform for scholarl
 
 ## References
 
-
----
-
+<!-- 
 # Formatting
 
 This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
@@ -135,3 +133,4 @@ Possible CiTO typing annotation include:
 * disagreesWith
 * updates
 * citati
+-->
