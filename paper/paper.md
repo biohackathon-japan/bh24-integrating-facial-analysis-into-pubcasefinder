@@ -4,6 +4,7 @@ title_short: 'BG24: GestaltMatcher and PubCaseFinder'
 tags:
   - rare diseases
   - human genetics
+  - HPO
 authors:
   - name: First Author
     affiliation: 1
