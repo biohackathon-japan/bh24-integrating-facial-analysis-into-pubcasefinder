@@ -68,68 +68,22 @@ HPO terms were assined to each case repots by automatically and/or manually. Aut
 ## Benchmarking on J-STAGE dataset
 Table: Cases analyzed in this study. m: month, y: year, each eye: hidning each eye separately, long bar: hiding both eyes by a bar, none: using original image.
 
-| syndrome          | omim ID | age  | sex    | deidentification | HPO term | DOI                        |
-| --------          | ------  | ---  | ---    | ---------------- | -------- | ----------------------     |
-| Angelman syndrome	| 105830	| 1y6m |	male  | each eye         |	+       | 10.11411/jspd.52.4_559     |
-| Cockayne syndrome	| 216400	| 4y	 | female |	long bar         |  +       | 10.11251/ojjscn1969.10.465 |
 
-<!--
-Cockayne syndrome	216400	4	female	Eyes are hidden.	https://doi.org/10.11251/ojjscn1969.10.465
-Cockayne syndrome	216400	2	female	Eyes are hidden.	https://doi.org/10.11251/ojjscn1969.10.465
-Cockayne syndrome	216400	12	male	Eyes are hidden.	https://doi.org/10.5794/jjoms.32.2274
-Coffin-Lowry syndrome	303600	16	female	Eyes are hiddeen by small circles.	https://doi.org/10.11277/stomatology1952.46.177
-Coffin-Lowry syndrome	303600	28	male	Eyes are hiddeen by small circles.	https://doi.org/10.14958/jjsdh.38.192
-Coffin-Lowry syndrome	303600	46	male	Eyes are hiddeen by small circles.	https://doi.org/10.14958/jjsdh.38.192
-Cornelia de Lange Syndrome	122470	4	female	Eyes are hidden	https://doi.org/10.11411/jspd1963.22.4_889
-Cornelia de Lange Syndrome	122470	8 months	female	Whole face is shown. 	https://doi.org/10.11164/jjsps.25.7_1103
-Kabuki syndrome	147920	5	female	Eyes are hidden.	https://doi.org/10.11411/jspd1963.31.1_121
-Kabuki syndrome	147920	18	female	Eyes are shown. Black bar on the mouse.	https://doi.org/10.5631/jibirinsuppl1986.1989.Supplement32_169
-Kabuki syndrome	147920	5	male	Eyes are hidden.	https://doi.org/10.5794/jjoms.42.729
-Kabuki syndrome	147920	6 days	male	Eyes are hidden.	https://doi.org/10.5794/jjoms.37.795
-Kabuki syndrome	147920	1	male	Eyes are hidden. Photo quality is low.	https://doi.org/10.5794/jjoms.37.795
-Kabuki syndrome	147920	9	male	Eyes are hidden.	https://doi.org/10.11411/jspd1963.34.1_269
-Kabuki syndrome	147920	5	male	Only upper face is shown	https://doi.org/10.5631/jibirin.85.1427
-Kabuki syndrome	147920	7 months	male	Only upper face is shown	https://doi.org/10.5631/jibirin.85.1427
-Kabuki syndrome	147920	4	female	Face is hidden by a bar	https://doi.org/10.11265/poms1991.8.2_39
-Mucopolysaccharidosis I	607014	46	male	Face is hidden by a bar	https://doi.org/10.11281/shinzo1969.26.12_1220
-Mucopolysaccharidosis II	607014	8	male	Face is hidden by a bar	https://doi.org/10.11411/jspd.54.4_507
-Mucopolysaccharidosis II	607014	6	male	Face is hidden by a bar	https://doi.org/10.11289/otoljpn1974.13.468
-Noonan Syndrome	163950	8 months	male	Whole face is shown. A paper in English.	https://doi.org/10.14930/jsma1939.40.75
-Noonan Syndrome	163950	8	male	Whole face is shown. A paper in English.	https://doi.org/10.14930/jsma1939.40.75
-Noonan Syndrome	163950	33	male	Face is hidden by a bar	https://doi.org/10.5980/jpnjurol1989.83.1902
-Noonan Syndrome	163950	8	male	Face is hidden by a bar	https://doi.org/10.2334/josnusd.45.117
-Noonan Syndrome	163950	3	male	Face is hidden by a bar	https://doi.org/10.5794/jjoms.42.929
-Noonan Syndrome	163950	3	male	Face is hidden by a bar	https://doi.org/10.14958/jjsdh.36.118
-Noonan Syndrome	163950	13	male	Face is hidden by a bar	https://doi.org/10.14958/jjsdh.36.118
-Noonan Syndrome	163950	9	male	Face is hidden by a bar	https://doi.org/10.5794/jjoms.27.1056
-Noonan Syndrome	163950	3	female	Face is hidden by circles	https://doi.org/10.14958/jjsdh.41.318
-Prader-Willi Syndrome	176270	25	female	Face is hidden by a bar	https://doi.org/10.11340/skinresearch1959.41.58
-Prader-Willi Syndrome	176270	6	male	Face is hidden by a bar	https://doi.org/10.5980/jpnjurol1928.67.7_548
-Prader-Willi Syndrome	176270	7	male	Face is hidden by a bar	https://doi.org/10.5980/jpnjurol1928.67.7_548
-Prader-Willi Syndrome	176270	10	female	Face is hidden by a bar	https://doi.org/10.11411/jspd1963.27.3_700
-Prader-Willi Syndrome	176270	16	male	Face is hidden by a bar	https://doi.org/10.11340/skinresearch1959.31.402
-Prader-Willi Syndrome	176270	25	male	Face is hidden by circles	https://doi.org/10.11255/jjmcp1992.15.19
-Prader-Willi Syndrome	176270	15	female	Face is hidden by circles	https://doi.org/10.11277/stomatology1952.43.672
-Prader-Willi Syndrome	176270	7	male	Face is hidden by a bar	https://doi.org/10.5980/jpnjurol1928.71.9_999
-Prader-Willi Syndrome	176270	5	male	Face is hidden by a bar	https://doi.org/10.5980/jpnjurol1928.71.9_999
-Prader-Willi Syndrome	176270	3	male	Face is hidden by a bar	https://doi.org/10.5980/jpnjurol1928.71.9_999
-Prader-Willi Syndrome	176270	5	male	Face is hidden by a bar	https://doi.org/10.5980/jpnjurol1928.71.9_999
-Prader-Willi Syndrome	176270	5	male	Face is hidden by a bar	https://doi.org/10.5794/jjoms.31.1513
-Prader-Willi Syndrome	176270	4	male	Face is hidden by a bar	https://doi.org/10.11411/jspd1963.18.2_377
-Rubinstein-Taybi Syndrome	180849	6	female	Whole face is shown.	https://doi.org/10.5035/nishiseisai.35.697
-Rubinstein-Taybi Syndrome	180849	4	male	Mouth is hidden.	https://doi.org/10.4263/jorthoptic.29.239
-Sotos syndrome	117550	10	male	Eyes are hidden.	https://doi.org/10.11411/jspd1963.34.5_1294
-Sotos syndrome	117550	28	female	Eyes are hiddeen by small circles. Color.	https://doi.org/10.5794/jjoms.69.22
-Williams-Beuen syndrome 	194050	41	female	Whole face is shown. A paper in English.	https://doi.org/10.1536/ihj.34.653
-Williams-Beuen syndrome 	194050	10	female	Eyes are hidden.	https://doi.org/10.14958/jjsdh.43.129
-Williams-Beuen syndrome 	194050	4	male	Face is hidden by circles	https://doi.org/10.11411/jspd.50.3_256
-Williams-Beuen syndrome 	194050	23	male	Face is hidden by circles	https://doi.org/10.11411/jspd.50.3_256
-Williams-Beuen syndrome 	194050	4	male	Face is hidden by short bars	https://doi.org/10.11411/jspd1963.41.5_912
-Williams-Beuen syndrome 	194050	10	female	Face is hidden by a bar	https://doi.org/10.14958/jjsdh.43.129
-Williams-Beuen syndrome 	194050	9	female	Face is hidden by circles	https://doi.org/10.14958/jjsdh.42.271
-Williams-Beuen syndrome 	194050	10	male	Face is hidden by a bar	https://doi.org/10.5794/jjoms.34.1982
-Williams-Beuen syndrome 	194050	41	female	Whole face is shown. 	https://doi.org/10.1536/ihj.34.653![image](https://github.com/user-attachments/assets/949c2d2d-c589-449f-8990-f7966dab75d5)
--->
+| syndrome                   | omim ID | cases  | HPO term annotation |
+| --------                   | ------  | ----   | ----                |
+| Angelman syndrome          |         | 1      | 0 | 
+| Cockayne  syndrome         |         | 3      | 3 |
+| Coffin-Lowry syndrome      |         | 3      | 3 |
+| Cornelia de Lange syndrome |         | 2      | 2 |
+| Kabuki syndrome            |         | 9      | 6 |
+| Mucopolysaccharidosis I    |         | 1      | 0 |
+| Mucopolysaccharidosis II   |         | 2      | 0 |
+| Noonan syndrome            |         | 9      | 2 |
+| Prader-Willi syndrome      |         | 13     | 0 |
+| Rubinstein-Taybi syndrome  |         | 2      | 2 |
+| Sotos sysndrome            |         | 2      | 2 |
+| Williams-Beuen syndrome    |         | 8      | 2 |
+| total                      |         | 56     | 22 |
 
 # Discussion
 
