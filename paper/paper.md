@@ -1,6 +1,6 @@
 ---
 title: 'BioHackathon2024 report: Integrating Facial Analysis into PubCaseFinder'
-title_short: 'BG24: GestaltMatcher and PubCaseFinder'
+title_short: 'BH24: GestaltMatcher and PubCaseFinder'
 tags:
   - rare diseases
   - human genetics
