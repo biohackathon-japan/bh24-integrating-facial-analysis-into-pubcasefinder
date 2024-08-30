@@ -1,4 +1,4 @@
-# BH24 BioHackrXiv Publication Template
+# BH24 Integrating facial analysis into PubCaseFinder
 test 2 by hiro
 Test test
 
