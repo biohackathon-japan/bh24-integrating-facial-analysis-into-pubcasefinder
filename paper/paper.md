@@ -45,6 +45,23 @@ GestaltMatcher Databaase [@citation:Lesmann2024-wz]
 PubCaseFinder [@citation:Fujiwara2018-ve; @citation:Fujiwara2022-uc]
 Limitations of Face2Gene in Japanese population [@citation:Mishima2019-fm]
 
+# Materials and Methods
+
+# Results
+
+# Discussion
+
+...
+
+## Acknowledgements
+
+...
+
+## References
+
+
+---
+
 # Formatting
 
 This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
