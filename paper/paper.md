@@ -48,6 +48,8 @@ PubCaseFinder [@citation:Fujiwara2018-ve; @citation:Fujiwara2022-uc]
 
 Limitations of Face2Gene in Japanese population [@citation:Mishima2019-fm]
 
+Human Phenotype Ontology (HPO) [@citation:Gargano2024-og]
+
 # Materials and Methods
 
 ## Data Source
