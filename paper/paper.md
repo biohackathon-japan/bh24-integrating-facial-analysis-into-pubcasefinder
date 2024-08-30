@@ -40,6 +40,11 @@ authors_short: Tzung-Chen Hsieh \emph{et al.}
 
 As part of the BioHackathon 2024, we here report...
 
+GestaltMacher [@citation:Hsieh2022-lw]
+GestaltMatcher Databaase [@citation:Lesmann2024-wz]
+PubCaseFinder [@citation:Fujiwara2018-ve; @citation:Fujiwara2022-uc]
+Limitations of Face2Gene in Japanese population [@citation:Mishima2019-fm]
+
 # Formatting
 
 This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
