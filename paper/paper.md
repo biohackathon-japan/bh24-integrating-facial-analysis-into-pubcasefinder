@@ -66,10 +66,12 @@ HPO terms were assined to each case repots by automatically and/or manually. Aut
 ...
 
 ## Benchmarking on J-STAGE dataset
-Table: Cases analyzed in this study. m: month, y: year.
-| syndrome          | omim ID | age | sex  | deidentification | HPO term | DOI                    |
-| --------          | ------  | --- | ---  | ---------------- | -------- | ---------------------- |
-| Angelman Syndrome	| 105830	| 18m |	male | circles          |	+        | 10.11411/jspd.52.4_559 |
+Table: Cases analyzed in this study. m: month, y: year, each eye: hidning each eye separately, long bar: hiding both eyes by a bar, none: using original image.
+
+| syndrome          | omim ID | age  | sex    | deidentification | HPO term | DOI                        |
+| --------          | ------  | ---  | ---    | ---------------- | -------- | ----------------------     |
+| Angelman syndrome	| 105830	| 1y6m |	male  | each eye         |	+       | 10.11411/jspd.52.4_559     |
+| Cockayne syndrome	| 216400	| 4y	 | female |	long bar         |  +       | 10.11251/ojjscn1969.10.465 |
 
 <!--
 Cockayne syndrome	216400	4	female	Eyes are hidden.	https://doi.org/10.11251/ojjscn1969.10.465
