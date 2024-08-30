@@ -24,14 +24,15 @@ date: 30 November 2024
 cito-bibliography: paper.bib
 event: BH24
 biohackathon_name: "BioHackathon 2024"
-biohackathon_url:   "https://2024.biohackathon.org"
+biohackathon_url:   "https://2024.biohackathon.org/"
 biohackathon_location: "Fukushima, Japan, 2024"
 group: Project 26
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-into-pubcasefinder
+
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Tzung-Chen Hsieh \emph{et al.}
 ---
 
 
