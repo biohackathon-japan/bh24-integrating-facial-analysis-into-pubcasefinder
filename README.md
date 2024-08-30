@@ -1,9 +1,7 @@
 # BH24 Integrating facial analysis into PubCaseFinder
-test 2 by hiro
-Test test
+This is a repository for the GestaltMatcher/PubCaseFinder team of BioHackathon 2024 inFukushima, Japan.
 
-
-another test
+----
 
 Minimal example of a [BioHackrXiv](https://biohackrxiv.org/) publication that can be generated with the
 [Preview Service](http://preview.biohackrxiv.org/).
