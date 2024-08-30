@@ -1,5 +1,7 @@
 # BH24 BioHackrXiv Publication Template
 
+Test test
+
 Minimal example of a [BioHackrXiv](https://biohackrxiv.org/) publication that can be generated with the
 [Preview Service](http://preview.biohackrxiv.org/).
 
