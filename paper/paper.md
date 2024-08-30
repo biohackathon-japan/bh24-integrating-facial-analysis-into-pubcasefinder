@@ -1,10 +1,9 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
-title_short: 'BioHackEU23 #26: unknown chemical substances'
+title: 'BioHackathon2024 report: Integrating Facial Analysis into PubCaseFinder'
+title_short: 'BG24: Integrating GestaltMatcher and PubCaseFinder'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - rare diseases
+  - human genetics
 authors:
   - name: First Author
     affiliation: 1
