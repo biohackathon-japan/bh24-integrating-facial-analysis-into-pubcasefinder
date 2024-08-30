@@ -76,9 +76,11 @@ HPO terms were assined to each case repots by automatically and/or manually. Aut
 # Results
 ## Benchmarking on GMDB dataset
 
+...
+
 ## Benchmarking on J-STAGE dataset
 
-
+...
 
 # Discussion
 
@@ -89,10 +91,9 @@ HPO terms were assined to each case repots by automatically and/or manually. Aut
 ...
 
 ## References
+<!-- 
 References will be automatically added when we submit to BioHackrXiv. Instruction for authors below is commented out in the source.
 
-
-<!-- 
 # Formatting
 
 This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
