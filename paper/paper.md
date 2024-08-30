@@ -38,7 +38,7 @@ authors_short: Tzung-Chen Hsieh \emph{et al.}
 
 # Introduction
 
-More than 6.2 \% of global population affected by rare diseases. Diagnosing patients with rare diseases is challenging because of the rarity and diversity of the disorders. It is often referred to as the "diagnostic odyssey" due to the long and complicated process of reaching a diagnosis. The facial analysis tools such as GestaltMatcher (GM)  [@citation:Hsieh2022-lw; @citation:Lesmann2024-wz] and Face2Gene [@citation:Gurovich2019-if; citation:Mishima2019-fm] have been developed to assist the diagnosis of rare diseases.
+More than 6.2 \% of global population affected by rare diseases. Diagnosing patients with rare diseases is challenging because of the rarity and diversity of the disorders. It is often referred to as the "diagnostic odyssey" due to the long and complicated process of reaching a diagnosis. The facial analysis tools such as GestaltMatcher (GM)  [@citation:Hsieh2022-lw; @citation:Lesmann2024-wz] and Face2Gene [@citation:Gurovich2019-if; @citation:Mishima2019-fm] have been developed to assist the diagnosis of rare diseases.
 Although the whole exome sequencing technology is widely used for the diagnosis of rare disease, interpreting the huge number of variants is still a challenging task. 
 Therefore, considering the clinical phenotypic information together with exome data is crucial.
 
