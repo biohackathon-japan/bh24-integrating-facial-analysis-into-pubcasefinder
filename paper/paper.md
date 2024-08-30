@@ -48,6 +48,9 @@ Limitations of Face2Gene in Japanese population [@citation:Mishima2019-fm]
 
 # Materials and Methods
 
+## Data Source
+The [J-STAGE](https://www.jstage.jst.go.jp/) is a a platform for scholarly publications in Japan.
+
 # Results
 
 # Discussion
