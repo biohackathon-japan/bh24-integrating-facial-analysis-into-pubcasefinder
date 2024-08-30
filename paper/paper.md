@@ -53,9 +53,11 @@ Human Phenotype Ontology (HPO) [@citation:Gargano2024-og]
 # Materials and Methods
 
 ## Data Source
-The [J-STAGE](https://www.jstage.jst.go.jp/) is a a public platform for scholarly publications in Japan. The site is developed and managed by the Japan Science and Technology Agency. Each PDF files of clinical case report in J-STAGE is downloaded.
+The [J-STAGE](https://www.jstage.jst.go.jp/) is a a public platform for scholarly publications in Japan. The site is developed and managed by the Japan Science and Technology Agency. Each PDF files of peer-reviewed and published clinical case report in J-STAGE is downloaded.
 
 ## HPO term assignment
+HPO terms were assined to each case repots by automatically and/or manually. Automatic HPO assignment was performed by using the free-text HPO term extraction function of PubCaseFinder
+
 
 # Results
 
@@ -68,7 +70,7 @@ The [J-STAGE](https://www.jstage.jst.go.jp/) is a a public platform for scholarl
 ...
 
 ## References
-References will be automatically added when we submit to BioHackrXive. Instruction for authors below is commented out in the source.
+References will be automatically added when we submit to BioHackrXiv. Instruction for authors below is commented out in the source.
 
 
 <!-- 
