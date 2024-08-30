@@ -51,10 +51,9 @@ Limitations of Face2Gene in Japanese population [@citation:Mishima2019-fm]
 # Materials and Methods
 
 ## Data Source
-The [J-STAGE](https://www.jstage.jst.go.jp/) is a a public platform for scholarly publications in Japan. The site is developed and managed by the Japan Science and Technology Agency. Each clinical case report in J-STAGE is downloaded. 
+The [J-STAGE](https://www.jstage.jst.go.jp/) is a a public platform for scholarly publications in Japan. The site is developed and managed by the Japan Science and Technology Agency. Each PDF files of clinical case report in J-STAGE is downloaded.
 
-
-maintained by .
+## HPO term assignment
 
 # Results
 
