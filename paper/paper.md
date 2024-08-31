@@ -69,7 +69,7 @@ HPO terms were assined to all case repots analyzed in this study by automaticall
 
 Table: Syndromes analyzed in this study. 
 
-| syndrome                   | omim ID | cases  | 
+| syndrome                   | omim ID | case   | 
 | --------                   | ------  | ----   | 
 | Angelman syndrome          | 105830  | 1      |
 | Cockayne  syndrome         | 216400  | 3      |
