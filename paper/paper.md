@@ -55,10 +55,10 @@ The diagnosis of rare diseases is challenging due to the rarity of the diseases 
 # Materials and Methods
 
 ## Data Source
-The J-STAGE is a a public platform for scholarly publications in Japan. The site is developed and managed by the Japan Science and Technology Agency. Most of archived documents were written in Japanse. PDF files of peer-reviewed  clinical case reports in J-STAGE were searched manually using relevant words related to each syndrome, and downloaded manually.
+The J-STAGE is a a public platform for scholarly publications in Japan. The site is developed and managed by the Japan Science and Technology Agency. Most of archived documents were written in Japanse. In this study, PDF files of peer-reviewed  clinical case reports in J-STAGE were searched manually using relevant words related to each syndrome, and downloaded manually.
 
 ## HPO term assignment
-HPO terms were assined to each case repots by automatically and/or manually. Automatic HPO assignment was performed by using the free-text HPO term extraction function of PubCaseFinder
+HPO terms were assined to all case repots analyzed in this study by automatically and/or manually. Automatic HPO assignment was performed by using the free-text HPO term extraction function of PubCaseFinder. Manual HPO assignment was performed by the authors with the assistance of PubCaseFinder's ontology search function.
 
 # Results
 ## Benchmarking on GMDB dataset
@@ -69,21 +69,21 @@ HPO terms were assined to each case repots by automatically and/or manually. Aut
 
 Table: Syndromes analyzed in this study. 
 
-| syndrome                   | omim ID | cases  | HPO term annotation |
-| --------                   | ------  | ----   | ----                |
-| Angelman syndrome          | 105830  | 1      | 0 | 
-| Cockayne  syndrome         | 216400  | 3      | 3 |
-| Coffin-Lowry syndrome      | 303600  | 3      | 3 |
-| Cornelia de Lange syndrome | 122470  | 2      | 2 |
-| Kabuki syndrome            | 147920  | 9      | 6 |
-| Mucopolysaccharidosis I    | 607014-607016| 1      | 0 |
-| Mucopolysaccharidosis II   | 309900 | 2      | 0 |
-| Noonan syndrome            | 163950  | 9      | 2 |
-| Prader-Willi syndrome      | 176270  | 13     | 0 |
-| Rubinstein-Taybi syndrome  | 180849  | 2      | 2 |
-| Sotos sysndrome            | 117550  | 2      | 2 |
-| Williams-Beuen syndrome    | 194050  | 8      | 2 |
-| total                      |         | 56     | 22 |
+| syndrome                   | omim ID | cases  | 
+| --------                   | ------  | ----   | 
+| Angelman syndrome          | 105830  | 1      |
+| Cockayne  syndrome         | 216400  | 3      |
+| Coffin-Lowry syndrome      | 303600  | 3      |
+| Cornelia de Lange syndrome | 122470  | 2      |
+| Kabuki syndrome            | 147920  | 9      |
+| Mucopolysaccharidosis I    | 607014-607016| 1 |
+| Mucopolysaccharidosis II   | 309900 | 2       |
+| Noonan syndrome            | 163950  | 9      |
+| Prader-Willi syndrome      | 176270  | 13     |
+| Rubinstein-Taybi syndrome  | 180849  | 2      |
+| Sotos sysndrome            | 117550  | 2      |
+| Williams-Beuen syndrome    | 194050  | 8      |
+| total                      |         | 56     |
 
 [supplemantal table 1](https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-into-pubcasefinder/raw/main/paper/supplemantal-table-1.xlsx) also showes each cases analyzed in this study with information of syndrome, OMIM ID, age, sex, and J-STAGE listed paper DOI.
 
