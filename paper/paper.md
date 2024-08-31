@@ -21,7 +21,7 @@ affiliations:
     index: 2
   - name: Department of Human Genetics, Atomic Bomb Disease Institute, Nagasaki University, Nagasaki, Japan
     index: 3
-date: 30 November 2024
+date: 31 August 2024
 cito-bibliography: paper.bib
 event: BH24
 biohackathon_name: "BioHackathon 2024"
