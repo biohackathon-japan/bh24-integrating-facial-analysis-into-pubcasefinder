@@ -85,6 +85,8 @@ Table: Syndromes analyzed in this study.
 | Williams-Beuen syndrome    | 194050  | 8      | 2 |
 | total                      |         | 56     | 22 |
 
+[supplemantal table 1](https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-into-pubcasefinder/raw/main/paper/supplemantal-table-1.xlsx) also showes each cases analyzed in this study with information of syndrome, OMIM ID, age, sex, and J-STAGE listed paper DOI.
+
 # Discussion
 
 ...
