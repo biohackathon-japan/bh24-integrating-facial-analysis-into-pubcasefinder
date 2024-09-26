@@ -85,7 +85,7 @@ HPO terms were assined to all case repots analyzed in this study by automaticall
 | Williams-Beuen syndrome    | 194050  | 8      |
 | total                      |         | 56     |
 
-[supplemantal table 1](https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-into-pubcasefinder/raw/main/paper/supplemantal-table-1.xlsx) also showes each cases analyzed in this study with information of syndrome, OMIM ID, age, sex, and J-STAGE listed paper DOI.
+[supplemantary table 1](https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-into-pubcasefinder/raw/main/paper/supplemantal-table-1.xlsx) also showes each cases analyzed in this study with information of syndrome, OMIM ID, age, sex, and J-STAGE listed paper DOI.
 
 # Discussion
 
@@ -94,6 +94,9 @@ HPO terms were assined to all case repots analyzed in this study by automaticall
 ## Acknowledgements
 
 ...
+
+## Supplementary Materials
+Supplemental table 1 is available at https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-into-pubcasefinder/raw/main/paper/supplemantal-table-1.xlsx
 
 ## References
 <!-- 
