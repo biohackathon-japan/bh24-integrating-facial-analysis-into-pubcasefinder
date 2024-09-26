@@ -55,18 +55,7 @@ The diagnosis of rare diseases is challenging due to the rarity of the diseases 
 # Materials and Methods
 
 ## Data Source
-The J-STAGE is a a public platform for scholarly publications in Japan. The site is developed and managed by the Japan Science and Technology Agency. Most of archived documents were written in Japanse. In this study, PDF files of peer-reviewed  clinical case reports in J-STAGE were searched manually using relevant words related to each syndrome, and downloaded manually.
-
-## HPO term assignment
-HPO terms were assined to all case repots analyzed in this study by automatically and/or manually. Automatic HPO assignment was performed by using the free-text HPO term extraction function of PubCaseFinder. Manual HPO assignment was performed by the authors with the assistance of PubCaseFinder's ontology search function.
-
-# Results 
-
-![Fig1](./figure1.png) **Fig. 1 | Distribution of HPO term counts in GMDB and J-Stage.**
-
-![Fig2](./figure2.png) **Fig. 2 | Accuracy of correct disease prediction.** HPO terms or facial images from cases in GMDB and J-Stage papers were analysed. **a**, PubCaseFinder analysis using HPO terms. **b**, GestaltMatcher analysis using facial images.
-
-## Benchmarking on J-STAGE dataset
+The J-STAGE is a a public platform for scholarly publications in Japan. The site is developed and managed by the Japan Science and Technology Agency. Most of archived documents were written in Japanse. In this study, PDF files of peer-reviewed  clinical case reports in J-STAGE were searched manually using relevant words related to each syndrome, and downloaded manually. From GMDB, facial images, diagnoses, and HPO annotation of syndromes in the J-Stage dataset (Table 1) were downloaded. 
 
 **Table 1 | Syndromes analyzed in this study**
 | syndrome                   | omim ID | case   | 
@@ -84,6 +73,16 @@ HPO terms were assined to all case repots analyzed in this study by automaticall
 | Sotos sysndrome            | 117550  | 2      |
 | Williams-Beuen syndrome    | 194050  | 8      |
 | total                      |         | 56     |
+
+## HPO term assignment
+For the J-Stage dataset, HPO terms were assined to all case repots analyzed in this study by automatically and/or manually. Automatic HPO assignment was performed by using the free-text HPO term extraction function of PubCaseFinder. Manual HPO assignment was performed by the authors with the assistance of PubCaseFinder's ontology search function. For the GMDB dataset, HPO terms were manually assigned by medical trainees and professionals. 
+
+# Results 
+## HPO term assignment
+![Fig1](./figure1.png) **Fig. 1 | Distribution of HPO term counts in GMDB and J-Stage.**
+
+## HPO- and facial analysis-based diagnosis assistance
+![Fig2](./figure2.png) **Fig. 2 | Accuracy of correct diagnonsis assistance.** HPO terms or facial images from cases in GMDB and J-Stage papers were analysed. **a**, PubCaseFinder analysis using HPO terms. **b**, GestaltMatcher analysis using facial images.
 
 [supplemantary table 1](https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-into-pubcasefinder/raw/main/paper/supplemantal-table-1.xlsx) also showes each cases analyzed in this study with information of syndrome, OMIM ID, age, sex, and J-STAGE listed paper DOI.
 
