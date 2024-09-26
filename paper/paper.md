@@ -62,6 +62,9 @@ HPO terms were assined to all case repots analyzed in this study by automaticall
 
 # Results 
 
+![Fig. 1 | Distribution of HPO term counts in GMDB and J-Stage](./figure1.png)
+
+
 ## Benchmarking on J-STAGE dataset
 
 Table: Syndromes analyzed in this study. 
