@@ -62,13 +62,13 @@ HPO terms were assined to all case repots analyzed in this study by automaticall
 
 # Results 
 
-![Fig. 1 | Distribution of HPO term counts in GMDB and J-Stage](./figure1.png)
+![Fig1](./figure1.png) **Fig. 1 | Distribution of HPO term counts in GMDB and J-Stage.**
 
+![Fig2](./figure2.png) **Fig. 2 | Accuracy of correct disease prediction.** HPO terms or facial images from cases in GMDB and J-Stage papers were analysed. **a**, PubCaseFinder analysis using HPO terms. **b**, GestaltMatcher analysis using facial images.
 
 ## Benchmarking on J-STAGE dataset
 
-Table: Syndromes analyzed in this study. 
-
+**Table 1 | Syndromes analyzed in this study**
 | syndrome                   | omim ID | case   | 
 | --------                   | ------  | ----   | 
 | Angelman syndrome          | 105830  | 1      |
@@ -97,6 +97,7 @@ Table: Syndromes analyzed in this study.
 
 ## References
 <!-- 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 References will be automatically added when we submit to BioHackrXiv. Instruction for authors below is commented out in the source.
 
 # Formatting
