@@ -88,7 +88,8 @@ For the J-Stage dataset, HPO terms were assined to all case repots analyzed in t
 
 # Discussion
 
-...
+In this study, we utilize facial images of patients with rare genetic diseases primeliry recruited in Japan. These images were sourced from open-access scientific papers published on the J-STAGE platform. This approach has certain limitations, including variability in image quality and phenotype information, as well as a limited number of cases. Most of facial images had bars or circles on eyes for deidentification. Although some facial images obtained successful diagnosis assistances with GestatMatcher, ..... 
+
 
 ## Acknowledgements
 
