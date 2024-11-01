@@ -87,9 +87,12 @@ For the J-Stage dataset, HPO terms were assined to all case repots analyzed in t
 [supplemantary table 1](https://github.com/biohackathon-japan/bh24-integrating-facial-analysis-into-pubcasefinder/raw/main/paper/supplemantal-table-1.xlsx) also showes each cases analyzed in this study with information of syndrome, OMIM ID, age, sex, and J-STAGE listed paper DOI.
 
 # Discussion
-
+(not finished)
 In this study, we utilize facial images of patients with rare genetic diseases primeliry recruited in Japan. These images were sourced from open-access scientific papers published on the J-STAGE platform. This approach has certain limitations, including variability in image quality and phenotype information, as well as a limited number of cases. Most of facial images had bars or circles on eyes for deidentification. Although GestaltMatcher successfully predicted diagnosis from the subset of deidentified facial images, it should be evaluated by using high quality facial images and detailed phenotype infomation described in HPO.
 
+Recruiting clinical information from patients with rere genetic diseases and their phenotype information is important to evaluate and train facial analysis models including GestaltMatcher. ....
+
+Because facial images are highly personal identifiable information, their sharing requires strict ....
 
 ## Acknowledgements
 
