@@ -38,7 +38,7 @@ authors_short: Tzung-Chen Hsieh \emph{et al.}
 
 # Introduction
 
-More than 6.2 \% of global population affected by rare diseases. Diagnosing patients with rare diseases is challenging because of the rarity and diversity of the disorders. It is often referred to as the "diagnostic odyssey" due to the long and complicated process of reaching a diagnosis. The facial analysis tools such as GestaltMatcher (GM)  [@citation:Hsieh2022-lw; @citation:Lesmann2024-wz] and Face2Gene [@citation:Gurovich2019-if; @citation:Mishima2019-fm] have been developed to assist the diagnosis of rare diseases.
+More than 6.2 \% of global population affected by rare diseases. Diagnosing patients with rare diseases is challenging because of the rarity and diversity of the disorders. It is often referred to as the "diagnostic odyssey" due to the long and complicated process of reaching a diagnosis. The facial analysis tools such as GestaltMatcher (GM)  [@citation:Hsieh2022-lw] and Face2Gene [@citation:Gurovich2019-if; @citation:Mishima2019-fm] have been developed to assist the diagnosis of rare diseases.
 Although the whole exome sequencing technology is widely used for the diagnosis of rare disease, interpreting the huge number of variants is still a challenging task. 
 Therefore, considering the clinical phenotypic information together with exome data is crucial.
 
@@ -88,11 +88,10 @@ For the J-Stage dataset, HPO terms were assined to all case repots analyzed in t
 
 # Discussion
 (not finished)
+
 In this study, we utilize facial images of patients with rare genetic diseases primeliry recruited in Japan. These images were sourced from open-access scientific papers published on the J-STAGE platform. This approach has certain limitations, including variability in image quality and phenotype information, as well as a limited number of cases. Most of facial images had bars or circles on eyes for deidentification. Although GestaltMatcher successfully predicted diagnosis from the subset of deidentified facial images, it should be evaluated by using high quality facial images and detailed phenotype infomation described in HPO.
 
-Recruiting clinical information from patients with rere genetic diseases and their phenotype information is important to evaluate and train facial analysis models including GestaltMatcher. ....
-
-Because facial images are highly personal identifiable information, their sharing requires strict ....
+The trained parameters using the GestaltMatcher Database (GMDB) [@citation:Lesmann2024-wz], based on facial images from reviewed papers and volunteers, are also shareable with the approval of the GestaltMatcher Advisory Board. This allows users to additionally train the model using facial images within their own organizations. Additionally, the shared network architecture enables the integration of independently trained models through federated learning. GestaltMatcher minimizes the sharing of facial images themselves while facilitating broader sharing of feature information, potentially making international multi-institutional collaboration easier. Currently, the collaborative research team, including the authors, has begun research under the approval of the central review by the Nagasaki University Hospital Internal Review Board. Through the expansion of this collaborative research team, we aim to improve the performance of GestaltMatcher using diverse populations and advance its clinical application.
 
 ## Acknowledgements
 
