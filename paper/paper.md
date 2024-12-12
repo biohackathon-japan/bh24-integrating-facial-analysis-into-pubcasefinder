@@ -38,19 +38,27 @@ authors_short: Tzung-Chen Hsieh \emph{et al.}
 
 # Introduction
 
-More than 6.2 \% of global population affected by rare diseases. Diagnosing patients with rare diseases is challenging because of the rarity and diversity of the disorders. It is often referred to as the "diagnostic odyssey" due to the long and complicated process of reaching a diagnosis. The facial analysis tools such as GestaltMatcher (GM)  [@citation:Hsieh2022-lw] and Face2Gene [@citation:Gurovich2019-if; @citation:Mishima2019-fm] have been developed to assist the diagnosis of rare diseases.
-Although the whole exome sequencing technology is widely used for the diagnosis of rare disease, interpreting the huge number of variants is still a challenging task. 
-Therefore, considering the clinical phenotypic information together with exome data is crucial.
+More than 6.2 \% of the global population is affected by rare diseases. Diagnosing patients with rare diseases is challenging because of the rarity and diversity of the disorders.
+It is often referred to as the "diagnostic odyssey" due to the long and complicated process of reaching a diagnosis.
+While whole exome sequencing (WES) and whole genome sequencing (WGS) have become standard tools for diagnosing rare disorders, interpreting the vast amount of variants is still challenging.
+Therefore, considering the clinical phenotypic information together with exome or genome data is crucial.
 
-The next-generation phenotyping approach to analyze the clinical information such as Human Phenotype Ontology (HPO) [@citation:Gargano2024-og] and facial image have been employed in many studies to assist the diagnosis of rare disorders.
-PubCaseFinder [@citation:Fujiwara2018-ve; @citation:Yamaguchi2021-kg; @citation:Fujiwara2022-uc]
- is a tool that can search similar clinical cases from the literature and is widely used in rare disease diagnosis, especially in the Japanese society.
-GestaltMatcher is the state-of-the-art deep facial phenotyping approach that trained on GestaltMatcher Database (GMDB), a largest facial image database for rare diseases compliant with FAIR principles.
-In this study, we aim to integrate the facial image analysis, GestaltMatcher into PubCaseFinder to analyze the Japanese cohort.
+However, the assessment of phenotypic information heavily relies on the experience of clinicians.
+If the clinician has never seen this kind of disorder before, recognizing the pattern of that disorder will become very difficult.
+With the recent advances in machine learning and computer vision, the next-generation phenotyping (NGP) approach to analyze clinical information, such as Human Phenotype Ontology (HPO) [@citation:Gargano2024-og] and facial images have been employed in many studies to assist the diagnosis of rare disorders.
 
-We first benchmarked the performance of GestaltMatcher and PubCaseFinder on the GMDB dataset. Moreover, we focused on the Japanese patients. We collected the clinical information encoded to HPO terms and the facial image from the publcations in the [J-STAGE](https://www.jstage.jst.go.jp/) database. 
+For the HPO analysis, tools like PubCaseFinder [@citation:Fujiwara2018-ve; @citation:Yamaguchi2021-kg; @citation:Fujiwara2022-uc] enable the identification of similar clinical cases from the literature and are widely utilized, particularly in Japan.
+On the facial image analysis front, GestaltMatcher represents the state-of-the-art in deep phenotyping, leveraging the GestaltMatcher Database (GMDB) [@citation:Lesmann2024-az]—the largest FAIR-compliant (Findable, Accessible, Interoperable, and Reusable) facial image database for rare diseases.
+Other tools, such as Face2Gene [@citation:Gurovich2019-if; @citation:Mishima2019-fm], have also been developed to assist with rare disease diagnosis.
 
-The diagnosis of rare diseases is challenging due to the rarity of the diseases and the lack of expertise. The facial analysis tools such as GestaltMatcher and Face2Gene have been developed to assist the diagnosis of rare diseases. The PubCaseFinder is a tool that can search similar clinical cases from the literature. The integration of facial analysis tools into PubCaseFinder can help the clinicians to diagnose the rare diseases more efficiently.
+Recent findings from the German National Rare Disorder Project demonstrated that incorporating GestaltMatcher into exome variant prioritization significantly enhances diagnostic accuracy [@citation:Schmidt2024-wr].
+However, this study mainly focused on the patients of European ancestry.
+Since ancestry is a confounding factor in facial analysis, it is crucial to evaluate the performance of GestaltMatcher across diverse populations to ensure its broader applicability and integration into healthcare systems worldwide. 
+
+This study aims to integrate facial image analysis using GestaltMatcher with PubCaseFinder to evaluate its utility within a Japanese cohort. To achieve this, we first benchmarked the performance of GestaltMatcher and PubCaseFinder using the GMDB dataset. Additionally, we focused specifically on Japanese patients by collecting clinical information encoded in HPO terms and facial images from publications available in the [J-STAGE](https://www.jstage.jst.go.jp/) database.
+Finally, we benchmarked both tools on a cohort recruited from Nagasaki University Hospital.
+
+Our findings suggest that incorporating these tools into the Japanese healthcare system could significantly facilitate the diagnosis of patients with rare disorders, bridging gaps in clinical expertise and improving diagnostic outcomes.
 
 # Materials and Methods
 
