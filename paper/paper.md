@@ -60,6 +60,9 @@ Finally, we benchmarked both tools on a cohort recruited from Nagasaki Universit
 
 Our findings suggest that incorporating these tools into the Japanese healthcare system could significantly facilitate the diagnosis of patients with rare disorders, bridging gaps in clinical expertise and improving diagnostic outcomes.
 
+Todo: Add something about the on-premise solution for GestaltMatcher. In the previous study, Face2Gene had to provide a special server in Japan that is very difficult to scale in the real worl scenario. But in this study, we are exploring the on-premise solution of GestaltMatcher in Nagasaki University Hospital.
+
+
 # Materials and Methods
 
 ## Data Source
